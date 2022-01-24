@@ -1,3 +1,3 @@
 # gittest
 
-echo date > newfile.txt
+echo date > (newfile.txt)
